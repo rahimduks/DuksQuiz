@@ -1,6 +1,7 @@
 {
   "name": "Duks Quiz",
   "short_name": "DuksQuiz",
+  "description": "Interactive flashcard study and quiz app with custom sessions and analysis.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f172a",
